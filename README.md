@@ -46,20 +46,3 @@ This project aims to assist in selecting the best location for establishing a st
 ## Conclusions and Recommendations
 
 Based on the analysis, the location with the highest number of startup funding events is recommended for establishing the startup. Additionally, the lists of top investors provide valuable insights into potential investors for different stages of the startup lifecycle.
-
-## Setup and Running the Code
-
-### Prerequisites
-
-- Python 3.x
-- Pandas
-- Matplotlib
-- Seaborn
-- fpdf
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/startup-investment-analysis.git
-   cd startup-investment-analysis
